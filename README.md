@@ -6,4 +6,4 @@ User can choose how many of the top characters to show.
 ```mvn clean javafx:run```
 
 ## Screenshots
-![]()
+![](https://github.com/YassineMEJRI/LetterFrequenciesPie/blob/master/demo.png)
